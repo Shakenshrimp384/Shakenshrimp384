@@ -1,5 +1,4 @@
 - Hi, I’m @Shakenshrimp384
-- I’m interested in developing Discord bots.
 - I’m currently learning javascript.
 - How to reach me: Twitter via @Shakenshrimp_
 
