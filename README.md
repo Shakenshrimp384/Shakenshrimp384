@@ -1,5 +1,5 @@
 - Hi, I’m @Shakenshrimp384
-- I’m currently learning javascript.
+- POV you write discord.js
 - How to reach me: Twitter via @Shakenshrimp_
 
 <!---
